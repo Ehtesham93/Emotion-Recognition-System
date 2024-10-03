@@ -11,8 +11,8 @@
 
 
 
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/Happy.PNG)
-![](https://github.com/omar178/Emotion-recognition/blob/master/emotions/angry.PNG)
+![Happy](https://github.com/Ehtesham93/Emotion-Recognition-System/blob/main/emotions/happy.png)
+![Angry](https://github.com/Ehtesham93/Emotion-Recognition-System/blob/main/emotions/angry.png)
 
 
 
